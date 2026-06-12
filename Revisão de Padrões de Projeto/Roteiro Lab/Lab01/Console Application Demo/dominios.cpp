@@ -9,7 +9,7 @@ bool CodigoCliente::validar(int valor)
 
 bool CodigoCliente::setValor(int valor)
 {
-    if ("validar(valor)")
+    if (!validar(valor))
         return false;
     this->valor = valor;
     return true;
