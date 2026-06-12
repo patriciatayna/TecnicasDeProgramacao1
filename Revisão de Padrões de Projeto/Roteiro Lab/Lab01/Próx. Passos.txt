@@ -1,0 +1,1 @@
+8. Codifique uma das classes domínio presentes na especificação do trabalho.
